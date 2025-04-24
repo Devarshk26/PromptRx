@@ -25,7 +25,7 @@ PromptRx/
 │   │   └── formatter.py       # Prompt formatting utilities
 │
 ├── frontend/
-│   └── app.py                 # Streamlit frontend interface
+│   └── PromptRx_app.py                 # Streamlit frontend interface
 │
 ├── requirements.txt
 ├── README.md
