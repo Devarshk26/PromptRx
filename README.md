@@ -9,7 +9,7 @@ PromptRx is an AI-powered tool to simplify hospital discharge instructions into 
 
 - 📤 Upload discharge notes in **PDF, TXT, or CSV**
 - 🧠 Uses OpenRouter + GPT to simplify and categorize
-- 📋 Organized into 6 useful patient-focused categories
+- 📋 Organized into useful patient-focused categories
 - 📄 Download everything as a clean PDF summary
 
 ---
