@@ -1,0 +1,10 @@
+pandas
+requests
+flask
+flask-cors
+pdfplumber
+fpdf
+streamlit
+textstat
+streamlit_lottie
+
