@@ -24,8 +24,10 @@ PromptRx/
 │   ├── utils/
 │   │   └── formatter.py       # Prompt formatting utilities
 │   ├── requirements.txt
+│
 ├── frontend/
 │   └── PromptRx_app.py                 # Streamlit frontend interface
+│
 ├── README.md
 ```
 
@@ -41,7 +43,7 @@ PromptRx/
 ```bash
 # Create virtual environment (recommended)
 python -m venv venv
-source venv/bin/activate    # On Windows: venv\Scripts\activate
+venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
