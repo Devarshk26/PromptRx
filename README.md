@@ -23,11 +23,9 @@ PromptRx/
 │   ├── app.py                 # Flask backend server
 │   ├── utils/
 │   │   └── formatter.py       # Prompt formatting utilities
-│
+│   ├── requirements.txt
 ├── frontend/
 │   └── PromptRx_app.py                 # Streamlit frontend interface
-│
-├── requirements.txt
 ├── README.md
 ```
 
